@@ -1,2 +1,2 @@
 # GestionDeProjet4A
-c'est un depot contenant mon projet
+c'est un projet pour m'exercer sur git
